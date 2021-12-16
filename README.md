@@ -1,5 +1,22 @@
 ![](https://github-readme-stats.vercel.app/api?username=Yukiookami)
 
+name: WakaTime Readme
+
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: '0 19 * * *'
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+
 
 <!--
 **Yukiookami/Yukiookami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
