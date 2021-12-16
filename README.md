@@ -1,4 +1,4 @@
-![](https://github-readme-stats.vercel.app/api?username=Yukiookami)
+![](https://github-readme-stats.vercel.app/api?username=Yukiookami&theme=dark)
 
 name: WakaTime Readme
 
