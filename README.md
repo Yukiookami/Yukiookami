@@ -10,6 +10,7 @@
 </p>
                                                                                        
 <p align = "center">
+ <img src="https://raw.githubusercontent.com/Yukiookami/Yuki_image/main/IMG_1763.JPG" width="450">                  
                           
  <p align = "left">                 
                    
@@ -23,16 +24,18 @@
  - 😄 &nbsp; 同时也欢迎参观我的博客，一起学习进步！   
  </p>
                               
- <p  align = "right">                  
-  <a align = "left" href="https://www.zouxinyu.club/#/">
-    中国站点: https://www.zouxinyu.club/
-  </a><br>
-  <a align = "left" href="https://ja.zouxinyu.club/#/">
-    海外站点: https://ja.zouxinyu.club/
-  </a>
- </p>                                                    
+                                               
 </p>
-                                                                                       
+          
+<p  align = "center">                  
+ <a align = "left" href="https://www.zouxinyu.club/#/">
+   中国站点: https://www.zouxinyu.club/
+ </a><br>
+ <a align = "left" href="https://ja.zouxinyu.club/#/">
+   海外站点: https://ja.zouxinyu.club/
+ </a>
+</p>      
+                  
 <p align = "center">
  <a href="https://github.com/Yukiookami/sku-blog-v2-vite">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yukiookami&repo=sku-blog-v2-vite&theme=tokyonight" />
