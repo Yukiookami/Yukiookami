@@ -1,7 +1,7 @@
 <h2> Hey there! I'm Yukiookami. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Yukiookami&count_private=true&show_icons=true&theme=gradient&line_height=27"  width=59%">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Yukiookami&count_private=true&show_icons=true&theme=gruvbox&line_height=27"  width=59%">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Yukiookami&theme=tokyonight"  width="39%">
 </p>
 
