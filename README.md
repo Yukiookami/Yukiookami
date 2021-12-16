@@ -6,3 +6,11 @@
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=Yukiookami&theme=github">
 </p>
+
+<p align = "center">
+  <img align = "left" src = "https://github-readme-streak-stats.herokuapp.com/?user=Yukiookami&theme=tokyonight" width="45%">
+</p>
+
+<p align = "center">
+  <img align = "right" src = "https://github-profile-trophy.vercel.app/?username=wangscaler&theme=tokyonight" width="50%" >
+</p>
