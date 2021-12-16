@@ -20,7 +20,7 @@
  - ☕ &nbsp; 既然来了，就是你我有缘，联系我交朋友。
  - 😄 &nbsp; 同时也欢迎参观我的博客，一起学习进步！                             
                               
- <p>                  
+ <p  align = "left">                  
   <a align = "left" href="https://www.zouxinyu.club/#/">
     中国站点: https://www.zouxinyu.club/
   </a><br>
