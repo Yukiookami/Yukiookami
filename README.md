@@ -9,5 +9,5 @@
 
 <p align = "center">
   <img align = "left" src = "https://github-readme-streak-stats.herokuapp.com/?user=Yukiookami&theme=radical" width="49.5%">
-  <img align = "right" src = "https://github-profile-trophy.vercel.app/?username=Yukiookami&theme=nord" width="49.5%" >
+  <img  src = "https://github-profile-trophy.vercel.app/?username=Yukiookami&theme=nord" width="49.5%" >
 </p>
