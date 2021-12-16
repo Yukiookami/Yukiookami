@@ -8,9 +8,6 @@
 </p>
 
 <p align = "center">
-  <img align = "left" src = "https://github-readme-streak-stats.herokuapp.com/?user=Yukiookami&theme=tokyonight" width="45%">
-</p>
-
-<p align = "center">
+  <img align = "left" src = "https://github-readme-streak-stats.herokuapp.com/?user=Yukiookami&theme=radical" width="45%">
   <img align = "right" src = "https://github-profile-trophy.vercel.app/?username=Yukiookami&theme=nord" width="50%" >
 </p>
