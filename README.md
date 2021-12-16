@@ -7,11 +7,7 @@
  <img src="https://activity-graph.herokuapp.com/graph?username=Yukiookami&theme=github">
 </p>
 
-<p align = "center">
+<p>
   <img align = "left" src = "https://github-readme-streak-stats.herokuapp.com/?user=Yukiookami&theme=radical" width="49%">
-  
-</p>
-
-<p align = "center">
   <img align = "right" src = "https://github-profile-trophy.vercel.app/?username=Yukiookami&theme=nord" width="49%" >
 </p>
