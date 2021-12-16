@@ -17,6 +17,14 @@
 - ✍️ &nbsp; Fork到自己的仓库，否则你可能会失去它。
 - ☕ &nbsp; 既然来了，就是你我有缘，联系我交朋友。
 - 😄 &nbsp; 同时也欢迎参观我的博客，一起学习进步！
+<p align = "center">
+ <a href="https://www.zouxinyu.club/#/">
+   中国站点: https://www.zouxinyu.club/#/
+ </a>
+ <a href="https://ja.zouxinyu.club/#/">
+   海外站点: https://ja.zouxinyu.club/#/
+ </a>
+</p>
                                                                                        
 <p align = "center">
  <a href="https://github.com/Yukiookami/sku-blog-v2-vite">
