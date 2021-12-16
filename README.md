@@ -20,7 +20,7 @@
 <p align = "center">
  <a align = "left" href="https://www.zouxinyu.club/#/">
    中国站点: https://www.zouxinyu.club/#/
- </a>
+ </a><br>
  <a align = "left" href="https://ja.zouxinyu.club/#/">
    海外站点: https://ja.zouxinyu.club/#/
  </a>
