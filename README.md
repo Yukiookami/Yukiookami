@@ -33,7 +33,8 @@
 </p>      
                   
 <p align = "center">
- <a href="https://github.com/Yukiookami/sku-blog-v2-vite">
+ <a href="https://github.com/Yukiookami/sku-blog-v2-vite">  
+   <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Yukiookami&repo=sku-blog-v2-vite&theme=dracula" />
  </a>
 </p>
                                                                                                                                        
